@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128090343938",
+    "firebase_url": "https://quote-bcf5a.firebaseio.com",
+    "project_id": "quote-bcf5a",
+    "storage_bucket": "quote-bcf5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128090343938:android:eeee2d76571f8e14ee351b",
+        "android_client_info": {
+          "package_name": "com.hillary.quote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128090343938-mlr1n4gjpumj121ff5rksocp0ud3q03r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs4J35uQRU7IE-YKtTLQ-GG3Q_BgtNgrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128090343938-mlr1n4gjpumj121ff5rksocp0ud3q03r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
